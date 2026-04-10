@@ -14,5 +14,19 @@
 			"maxVersions": 3,
 			"enabled": false
 		}
-	}
+	},
+	"packageClassList": [
+		"AppPlugin",
+		"CAPCameraPlugin",
+		"FilesystemPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"CAPLiveUpdatesPlugin",
+		"SplashScreenPlugin",
+		"StatusBarPlugin",
+		"ApplePay",
+		"AuthConnectPlugin",
+		"GooglePayPlugin",
+		"CDVPlugin"
+	]
 }
